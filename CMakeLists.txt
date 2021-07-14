@@ -26,4 +26,7 @@ include_directories(${CMAKE_INCLUDE_PATH} ${CERES_INCLUDE_DIRS})
 add_executable(ceres_trial ceres_trial.cpp )
 target_link_libraries(ceres_trial ${CERES_LIBRARIES})
 
+add_executable(line_fitting_ceres line_fitting_ceres.cpp )
+target_link_libraries(line_fitting_ceres ${CERES_LIBRARIES})
+
 

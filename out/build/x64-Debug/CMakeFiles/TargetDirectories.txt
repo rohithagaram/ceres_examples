@@ -1,3 +1,4 @@
-C:/Users/Manasa/Documents/Learning/ceres/out/build/x64-Debug/CMakeFiles/ceres_trial.dir
-C:/Users/Manasa/Documents/Learning/ceres/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Manasa/Documents/Learning/ceres/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Manasa/Documents/Learning/ceres/ceres_examples/out/build/x64-Debug/CMakeFiles/ceres_trial.dir
+C:/Users/Manasa/Documents/Learning/ceres/ceres_examples/out/build/x64-Debug/CMakeFiles/line_fitting_ceres.dir
+C:/Users/Manasa/Documents/Learning/ceres/ceres_examples/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Manasa/Documents/Learning/ceres/ceres_examples/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

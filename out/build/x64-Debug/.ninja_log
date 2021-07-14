@@ -1,5 +1,10 @@
 # ninja log v5
-4	1803	6479771293589969	CMakeFiles/simple_ceres.dir/simple_ceres.cpp.obj	86475ea12043f9
-1803	2116	6479771296275161	simple_ceres.exe	91190a090ef6d3c8
-1	1696	6479771292535214	CMakeFiles/ceres_trial.dir/ceres_trial.cpp.obj	f467186320484c09
-1697	2193	6479771297414800	ceres_trial.exe	c79d4d394833823d
+1	1493	6479806428619084	CMakeFiles/ceres_trial.dir/ceres_trial.cpp.obj	f467186320484c09
+1	1323	6479810798247026	CMakeFiles/line_fitting_ceres.dir/line_fitting_ceres.cpp.obj	3c90ac690b65a526
+1324	1812	6479810802972061	line_fitting_ceres.exe	c938f2276062c641
+0	1334	6479812032859599	CMakeFiles/line_fitting_ceres.dir/line_fitting_ceres.cpp.obj	3c90ac690b65a526
+1334	1574	6479812034832817	line_fitting_ceres.exe	c938f2276062c641
+1	1239	6479812540855229	CMakeFiles/line_fitting_ceres.dir/line_fitting_ceres.cpp.obj	3c90ac690b65a526
+1239	1529	6479812543345932	line_fitting_ceres.exe	c938f2276062c641
+0	1471	6479814218447902	CMakeFiles/line_fitting_ceres.dir/line_fitting_ceres.cpp.obj	3c90ac690b65a526
+1473	1725	6479814220631655	line_fitting_ceres.exe	c938f2276062c641
