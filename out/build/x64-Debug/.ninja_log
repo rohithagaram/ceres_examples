@@ -1,0 +1,5 @@
+# ninja log v5
+4	1803	6479771293589969	CMakeFiles/simple_ceres.dir/simple_ceres.cpp.obj	86475ea12043f9
+1803	2116	6479771296275161	simple_ceres.exe	91190a090ef6d3c8
+1	1696	6479771292535214	CMakeFiles/ceres_trial.dir/ceres_trial.cpp.obj	f467186320484c09
+1697	2193	6479771297414800	ceres_trial.exe	c79d4d394833823d
