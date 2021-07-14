@@ -1,2 +1,2 @@
 # ceres_examples
-simpele linear optimization problems solving using the ceres
+simple linear optimization problems solving using the ceres
