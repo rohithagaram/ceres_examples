@@ -7,7 +7,7 @@ using ceres::Problem;
 using ceres::CostFunction;
 using ceres::AutoDiffCostFunction;
 
-// this programs finds the close point to (0,2) which satisfies  y= x^2 + 1
+
 
 struct my_cost {
 
